@@ -20,6 +20,7 @@ Think of it as my coding diary 📓 but with more ☕ **Java flavor**!
 🌐 Advanced topics (Multithreading, JDBC, GUI, and more)  
 
 💡 Mini experiments & practice snippets  
+
 ---
 
 ## 🛠️ Tech Stack
